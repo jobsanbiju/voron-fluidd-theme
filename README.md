@@ -6,7 +6,6 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 
 - **Blurred Background:** Enhances UI aesthetics.
 - **Custom Background Support:** Replace the included `background.png` with your own image.
-- **Optional Logo Support:** Add a logo overlay through CSS (instructions below).
 
 ---
 
