@@ -17,13 +17,13 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 1. Open your Fluidd web interface.
 2. Navigate to the **Config** section.
 
-![Configuration Page Screenshot](https://github.com/<your-username>/voron-fluidd-theme/raw/main/screenshots/config%20screenshot.png)
+![Configuration Page Screenshot](https://github.com/<jobsanbiju/voron-fluidd-theme/raw/main/screenshots/config%20screenshot.png)
 
 ### Step 2: Create the `.fluidd-theme` Directory
 
 1. In the **Config** section, create a new directory named `.fluidd-theme`.
 
-![Create .fluidd-theme Directory Screenshot](https://github.com/<your-username>/voron-fluidd-theme/raw/main/screenshots/config%20screenshot.png)
+![Create .fluidd-theme Directory Screenshot](https://github.com/jobsanbiju/voron-fluidd-theme/raw/main/screenshots/config%20screenshot.png)
 
 ### Step 3: Upload Theme Files
 
@@ -31,7 +31,7 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
    - Upload `background.png` for the background image.
    - Upload `custom.css` for the blurred theme settings.
 
-![Upload Theme Files Screenshot](https://github.com/<your-username>/voron-fluidd-theme/raw/main/screenshots/fluid-theme%20screenshot.png)
+![Upload Theme Files Screenshot](https://github.com/jobsanbiju/voron-fluidd-theme/raw/main/screenshots/fluid-theme%20screenshot.png)
 
 ### Step 4: Refresh Fluidd
 
@@ -44,7 +44,7 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 
 After following the steps above, your Fluidd interface should look like this:
 
-![Final Theme Look](https://github.com/<your-username>/voron-fluidd-theme/raw/main/screenshots/main%20page.png)
+![Final Theme Look](https://github.com/jobsanbiju/voron-fluidd-theme/raw/main/screenshots/main%20page.png)
 
 ---
 
