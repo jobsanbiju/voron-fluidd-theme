@@ -17,8 +17,6 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 1. Open your Fluidd web interface.
 2. Navigate to the **Config** section.
 
-![Configuration Page Screenshot](https://github.com/jobsanbiju/voron-fluidd-theme/raw/main/screenshots/config%20screenshot.png)
-
 ### Step 2: Create the `.fluidd-theme` Directory
 
 1. In the **Config** section, create a new directory named `.fluidd-theme`.
