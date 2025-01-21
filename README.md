@@ -66,7 +66,7 @@ After following the steps above, your Fluidd interface should look like this:
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](https://opensource.org/license/mit)
 
 Feel free to customize and share this theme!
 
