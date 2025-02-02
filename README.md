@@ -10,6 +10,7 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 ---
 
 
+
 ## Installation Instructions 
 
 ### Step 1: Access the Configuration Page
