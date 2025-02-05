@@ -1,4 +1,4 @@
-# Voron Custom Fluidd Theme
+# Custom Voron Fluidd Theme
 
 This repository contains a custom theme for the Fluidd web interface, tailored for Voron users. The theme includes a modern blurred background and optional support for logo customization via CSS. It is based on the Voron Community Theme but without the default logo.
 
