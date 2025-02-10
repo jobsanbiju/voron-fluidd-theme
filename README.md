@@ -13,7 +13,7 @@ This repository contains a custom theme for the Fluidd web interface, tailored f
 
 ## Installation Instructions 
 
-### Step 1: Access the Configuration Page
+### Step 1: Access the Configuration Page. 
 
 1. Open your Fluidd web interface.
 2. Navigate to the **Config** section.
